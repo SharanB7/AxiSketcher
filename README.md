@@ -53,6 +53,38 @@ The tool currently employs the [**Economic Freedom Index** dataset](https://www.
 
 Each factor is scored from 0 to 100, offering a comprehensive evaluation of global economic conditions.
 
+## Hosting the Project Locally
+
+To host this project on your local machine, follow these steps:
+
+### Prerequisites
+- Visual Studio Code (VSCode)
+- Git installed on your system
+
+### Steps
+
+1. **Clone the Repository**:
+   Open your terminal and run the following command:
+   ```bash
+   git clone https://github.com/SharanB7/AxiSketcher.git ```
+
+2. **Open the Project in VSCode**:
+   Navigate to the project directory and open it in VSCode:
+   ```cd AxiSketcher
+   code .```
+
+3. **Install the "Live Server" Extension**:
+   - Open Visual Studio Code.
+   - Go to the Extensions tab or press Ctrl+Shift+X (Windows/Linux) / Cmd+Shift+X (Mac).
+   - Search for "Live Server" and install it.
+
+4. **Run the Project:**:
+   - Locate and open index.html in your project folder.
+   - Right-click on the file and select "Open with Live Server".
+   - Alternatively, click on the "Go Live" button at the bottom right corner of VSCode.
+
+The project should now be hosted locally and accessible at http://127.0.0.1:5500 (or another port specified by Live Server).
+
 ## Citation
 
 This project is based on the work presented in:
