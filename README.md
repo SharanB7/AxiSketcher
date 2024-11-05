@@ -82,7 +82,7 @@ To host this project on your local machine, follow these steps:
    - Go to the Extensions tab or press `Ctrl+Shift+X` (Windows/Linux) / `Cmd+Shift+X` (Mac).
    - Search for "Live Server" and install it.
 
-4. **Run the Project:**:
+4. **Run the Project**:
    - Locate and open `index.html` in your project folder.
    - Right-click on the file and select "Open with Live Server".
    - Alternatively, click on the "Go Live" button at the bottom right corner of VSCode.
