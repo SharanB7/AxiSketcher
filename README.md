@@ -64,14 +64,14 @@ To host this project on your local machine, follow these steps:
 ### Steps
 
 1. **Clone the Repository**:
-   Open your terminal and run the following command:
+   - Open your terminal and run the following command:
    ```
    bash
    git clone https://github.com/SharanB7/AxiSketcher.git 
    ```
 
 2. **Open the Project in VSCode**:
-   Navigate to the project directory and open it in VSCode:
+   - Navigate to the project directory and open it in VSCode:
    ```
    cd AxiSketcher
    code .
