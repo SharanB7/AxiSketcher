@@ -93,4 +93,4 @@ The project should now be hosted locally and accessible at `http://127.0.0.1:550
 
 This project is based on the work presented in:
 
-**Kwon, B.C., Kim, H., Wall, E., Choo, J., Park, H., & Endert, A.** *AxiSketcher: Interactive Nonlinear Axis Mapping of Visualizations through User Drawings*, [IEEE Transactions on Visualization and Computer Graphics, 2017](https://cav-lab.github.io/media/papers/AxiSketcherVAST16.pdf) :contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}.
+**Kwon, B.C., Kim, H., Wall, E., Choo, J., Park, H., & Endert, A.** *AxiSketcher: Interactive Nonlinear Axis Mapping of Visualizations through User Drawings*, [IEEE Transactions on Visualization and Computer Graphics, 2017](https://cav-lab.github.io/media/papers/AxiSketcherVAST16.pdf).
